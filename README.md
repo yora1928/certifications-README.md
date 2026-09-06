@@ -90,9 +90,10 @@ certifications/
 ├── README.md
 │
 └── certificates/
-    ├── smkn1-bukateja.pdf
-    ├── rsu-islam-klaten.pdf
-    └── jogsa-smkn1-jogonalan.pdf
+    ├── smkn1 bukateja.pdf
+    ├── RSI klaten.JPG
+    └── smkn1jogonalan.JPG
+    └── DLL
 ```
 
 ---
