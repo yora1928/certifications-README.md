@@ -1,4 +1,3 @@
-````markdown
 # Certifications & Recognition
 
 A collection of certificates and official recognition received for contributions in cybersecurity, vulnerability reporting, and technology-related activities.
@@ -94,7 +93,7 @@ certifications/
     ├── smkn1-bukateja.pdf
     ├── rsu-islam-klaten.pdf
     └── jogsa-smkn1-jogonalan.pdf
-````
+```
 
 ---
 
@@ -105,4 +104,3 @@ certifications/
 `SECURITY • LEARNING • RESPONSIBLE DISCLOSURE`
 
 </div>
-```
